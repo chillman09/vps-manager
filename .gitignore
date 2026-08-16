@@ -1,0 +1,4 @@
+node_modules/
+.env
+vps.db
+vps.db-*
